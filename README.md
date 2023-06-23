@@ -1,7 +1,6 @@
-# test_proj
+# Expense_tracker app
 
-A new Flutter project.
-
+This was an expense tracker i wrote in flutter while coding along with a tutorial, kinda incomplete now, i'll definitely make a better version soon
 ## Getting Started
 
 This project is a starting point for a Flutter application.
